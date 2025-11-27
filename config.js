@@ -9,8 +9,8 @@ const CLINIC_NAME = 'Manila Heart Center';   // Display name for the clinic
 
 // CLINIC BRANDING (Optional)
 const CLINIC_LOGO = 'assets/logo.png';
-const CLINIC_PRIMARY_COLOR = '#dc2626';
-const CLINIC_SECONDARY_COLOR = '#ef4444';
+const CLINIC_PRIMARY_COLOR = '#dc2626'; // Red
+const CLINIC_SECONDARY_COLOR = '#f97316'; // Orange
 
 // CLINIC CONTACT (Optional - for homepage)
 const CLINIC_CONTACT = {
